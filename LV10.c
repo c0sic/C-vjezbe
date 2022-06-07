@@ -148,17 +148,5 @@
 //   return 0;
 // }
 
-// ZAD-7
-
-#include <stdio.h>
-
-
-
-int main (){
-  int a[]={1,2,6,2,4,2};
-
-  
-return 0;
-}
 
 
